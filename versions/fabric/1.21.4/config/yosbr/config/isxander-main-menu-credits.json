@@ -1,0 +1,11 @@
+{
+  "main_menu": {
+    "bottom_right": [
+      {
+        "text": "StarFox 1.0.0 Alpha 1",
+        "clickEvent": { "action": "open_url", "value": "https://qdocs.miku.show/starfox/" }
+      }
+    ],
+    "mod_blacklist": []
+  }
+}

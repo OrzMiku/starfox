@@ -1,0 +1,12 @@
+{
+  "quality": {
+    "weather_quality": "FAST",
+    "enable_vignette": false
+  },
+  "notifications": {
+    "has_cleared_donation_button": true
+  },
+  "performance": {
+    "use_entity_culling": false
+  }
+}
