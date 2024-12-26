@@ -1,0 +1,13 @@
+name = "StarFox"
+author = "OrzMiku"
+version = "1.0.0+1.20.1.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6d405038f712106391bd1ff6dc0edeea7f6088eedb90b1ee65119155f533b0eb"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.1"
