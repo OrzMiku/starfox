@@ -41,6 +41,10 @@ file = "config/particle_core_config.toml"
 hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
 
 [[files]]
+file = "icon.png"
+hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true

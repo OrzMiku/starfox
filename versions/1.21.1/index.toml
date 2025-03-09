@@ -37,6 +37,10 @@ file = "config/particle_core_config.toml"
 hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
 
 [[files]]
+file = "icon.png"
+hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
@@ -183,4 +187,18 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "aa0581977eb843b03a7355db30891609ff5af21daa694c0bde1921b4aad02a1b"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "2bc809e0b3cab8c2fa58abd08288059ecd285fa0f8ae0d878ee47fd5132ff6e4"
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
 metafile = true
