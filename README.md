@@ -15,6 +15,10 @@
 
 ![Frame rate performance in default configuration](https://cdn.modrinth.com/data/o4V7Ug7T/images/7d9ef05bcfbaf06114b1280f0772908ccac449bf.png)
 
+## Links
+
+- [LunarFox](https://modrinth.com/modpack/lunarfox)
+
 ## Credits
 
 - [Simply Optimized](https://modrinth.com/modpack/sop): Some config files are from this modpack.

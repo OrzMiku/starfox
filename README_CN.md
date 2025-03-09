@@ -15,6 +15,10 @@
 
 ![默认配置下的帧率性能](https://cdn.modrinth.com/data/o4V7Ug7T/images/7d9ef05bcfbaf06114b1280f0772908ccac449bf.png)
 
+## 链接
+
+- [LunarFox](https://modrinth.com/modpack/lunarfox)
+
 ## 致谢
 
 - [Simply Optimized](https://modrinth.com/modpack/sop): 部分配置文件来自此模组包。
