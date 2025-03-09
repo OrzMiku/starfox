@@ -1,0 +1,148 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "23b96a18c6da194512a4291f186776c8bc4eb62a6f230bf723dd5d188ea7a555"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "cb9a30676675fb246b52a7c086e052dc3e4a4aaedc387ee21c3297ec25423f42"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
+
+[[files]]
+file = "config/particle_core_config.toml"
+hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
+
+[[files]]
+file = "icon.png"
+hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "fa3b6c0f8500a3afa447e655d2227e613c128b4f0d04e32bcfb7d9795f42cf8a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4233b0121676c147983f77ee7edfab693ea4f26c1551e812df8de69594f3f939"
+metafile = true
+
+[[files]]
+file = "mods/fastquit-forge.pw.toml"
+hash = "95376b3ba974b2bb04988630f423ff5be72bbdf5ab5ef988dbc98dd0b9532ca8"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "424818d3c9640910f81316fc8e8ece6804c2b21932d57d23c68f12320405b109"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "ea7e63c35c608fe9702f56291c52114b3ad6cfd79f5a52494853ae7ffbc6516a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "5a7d2f79662f79748a934a798db826ed41ee023695f0f2a14447a4a5bd8f49dc"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "492b7eed4ba1dfd3adb045fc59bcf746964ad83ad502145eea34505ba2311348"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "22ebf1f1ef9694e93cad519038df4871a13075bfb8abb1f1d33983078e5a08b5"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "c855f136f3576f9556779c50db1194f0a57b9601e599540db61e0e709f61d5b9"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "b5c8c752fbd7baae3dade53fa91a378e809e2a98d7d06fd65cd78596c42b0d05"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f267121c7a18c0fa1631a308e678588f5c0802682246635072fc2868dc140411"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "23fc0d460f8a61595b0e142a5f3413614649781f4d7b0e443b959933d7683c44"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "97c7557e415c668c0f0661891d2e06d3c1fd31ba19f6bb71b8be092eae78f718"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "f916e0aeb4989a8fec48a9552bf2e7092db83db99285b5b1bd61145eb92dd3e5"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "2b202a194c96c6cd4fc70f54b8db4696ffa9a3333b08c87f527774ee9b2ae8c2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "f7bfbbf413305d4df574fcf0b71087ba3aaaf31441833d43ba458bbc2d12c3b7"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a16fd2a62ff08fe7a8d6b3669c33d48911036bee5699c20bc96cf52682b8cd5d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
+metafile = true

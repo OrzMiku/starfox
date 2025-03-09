@@ -1,0 +1,13 @@
+name = "Modern UI"
+filename = "ModernUI-NeoForge-1.21.4-3.11.1.11-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/zr5RHMB6/ModernUI-NeoForge-1.21.4-3.11.1.11-universal.jar"
+hash-format = "sha512"
+hash = "6c363779a56249695473e5c2ea343f11b645636e5a9df4b45d907c138af1417d8c1fa56051393df315c394f754f6fc6f734bcb328e8b0c58da3e4a25aca54c7d"
+
+[update]
+[update.modrinth]
+mod-id = "3sjzyvGR"
+version = "zr5RHMB6"
