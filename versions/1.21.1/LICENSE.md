@@ -1,0 +1,4 @@
+- **Reflex AntiLag**  
+  - ARR (All Rights Reserved), [allowed to distribute in modpacks.](https://github.com/Tythee/Minecraft-Reflex/issues/2)
+  - Source Code: [GitHub](https://github.com/Tythee/Minecraft-Reflex)
+  - Source Code (built from): [GitHub](https://github.com/OrzMiku/Minecraft-Reflex)
