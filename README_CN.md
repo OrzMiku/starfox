@@ -9,9 +9,10 @@
 
 ## 帧率性能
 
-> 测试平台
-> GPU: RTX 3060 笔记本
-> CPU: Ryzen 7 5800H
+测试平台：
+
+- GPU: RTX 3060 笔记本
+- CPU: Ryzen 7 5800H
 
 ![默认配置下的帧率性能](https://cdn.modrinth.com/data/o4V7Ug7T/images/7d9ef05bcfbaf06114b1280f0772908ccac449bf.png)
 

@@ -9,9 +9,10 @@
 
 ## Frame rate performance
 
-> Test platform
-> GPU: RTX 3060 Laptop
-> CPU: Ryzen 7 5800H
+Test platform:
+
+- GPU: RTX 3060 Laptop
+- CPU: Ryzen 7 5800H
 
 ![Frame rate performance in default configuration](https://cdn.modrinth.com/data/o4V7Ug7T/images/7d9ef05bcfbaf06114b1280f0772908ccac449bf.png)
 
