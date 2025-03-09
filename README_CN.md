@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn.modrinth.com/data/r7CwLIIr/cfd4314a75bb775ade08fe0e9ada9cf9a913f6a5_96.webp" alt="Logo">
-  <h1>StartFox</h1>
+  <h1>StarFox</h1>
   <p>
     一个简单的性能优化模组包。它是<a href="https://modrinth.com/modpack/lunarfox">LunarFox</a>的基础。
   </p>

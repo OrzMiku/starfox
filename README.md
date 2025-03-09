@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn.modrinth.com/data/r7CwLIIr/cfd4314a75bb775ade08fe0e9ada9cf9a913f6a5_96.webp" alt="Logo">
-  <h1>StartFox</h1>
+  <h1>StarFox</h1>
   <p>
     A simple performance modpack. It's the base for <a href="https://modrinth.com/modpack/lunarfox">LunarFox</a>. 
   </p>
