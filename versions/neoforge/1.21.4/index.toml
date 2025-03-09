@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.md"
+hash = "0f8509dec4d09db4738018b4bcd1ea94825c05a8b783e8e329d6726b8a36a809"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -128,6 +132,10 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/reflex-fabric-1.0.4+mc1.21.4.jar"
+hash = "d96df25a860b6c64605ec1bc0062d8aea33b1a24cd8a3b2b8308a06d561d6acf"
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f7bfbbf413305d4df574fcf0b71087ba3aaaf31441833d43ba458bbc2d12c3b7"
 metafile = true
@@ -136,6 +144,10 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "a16fd2a62ff08fe7a8d6b3669c33d48911036bee5699c20bc96cf52682b8cd5d"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "d6e15596d876dad5ffdf5d247a4aecd7afa0153eb7e5107390b8025fe233fb40"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
