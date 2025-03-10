@@ -37,10 +37,6 @@ file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
-file = "mods/RuOK-1.7.1.jar"
-hash = "b2e2573fcaa0a0153ee8a54d82b3634d9a7aa4e82b7f197dca4e8ead738e63eb"
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
 metafile = true
@@ -102,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+hash = "85f965de3efa0ad66252b3540afff30d5a3cf8c9cb86692987830b8ae08489c5"
 metafile = true
 
 [[files]]
