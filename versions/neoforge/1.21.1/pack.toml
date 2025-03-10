@@ -1,0 +1,13 @@
+name = "StarFox"
+author = "OrzMiku"
+version = "1.1.1+mc1.21.1.neoforge"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "45bff4216376ff698279d795b4c1860eb60de3b360e9ab5ca01a452c6edcebea"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.133"

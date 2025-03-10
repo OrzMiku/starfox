@@ -1,0 +1,169 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE.md"
+hash = "0f8509dec4d09db4738018b4bcd1ea94825c05a8b783e8e329d6726b8a36a809"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "23b96a18c6da194512a4291f186776c8bc4eb62a6f230bf723dd5d188ea7a555"
+
+[[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "dca9ad2578d3ce6366769f14038b4edca556e2977515836cee788c0498cc9f3c"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "cb9a30676675fb246b52a7c086e052dc3e4a4aaedc387ee21c3297ec25423f42"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
+
+[[files]]
+file = "config/particle_core_config.toml"
+hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
+
+[[files]]
+file = "icon.png"
+hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "78e6623084bd14f68ef1335ae8a419238c4119188b90fd9e71faf45c4f049942"
+metafile = true
+
+[[files]]
+file = "mods/fastquit-forge.pw.toml"
+hash = "574e4be5a4194cf6a44a5d064e3734dfbaac911c3caebfdf722ed7c35ff5215e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "b15c066e6dda1857e2f7fb6e1f724a9fc95c2d222122500c14ccd987d4ea24fd"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "e27bf546182fc60c59cd535f0bd54c4f1aefd6a99db6ce49b9ca22bfd14c2b63"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "04df77c921a891de3a2cfb8f0f9a6f61a4aa91640b90405a12d7bed93f8eead3"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "d3783a5e5cee34dc62e1a795f9bb1277e5be21dc189fc0c39e421633e1e508a9"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "8f40098ed250715b6fc189084cbb1f8252501a0fd096a57760b211b0c3e75614"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "464024b6e849dd06dd9113f9b40dc7824b3c8b33baafd00416029d2331503cd3"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/reflex-neoforge-1.0.4+mc1.21.1.jar"
+hash = "4b2a5d73ca3de76877f966520b9e9d10a24a076d26624e59528185a11dc305ce"
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "2bc809e0b3cab8c2fa58abd08288059ecd285fa0f8ae0d878ee47fd5132ff6e4"
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
+metafile = true
