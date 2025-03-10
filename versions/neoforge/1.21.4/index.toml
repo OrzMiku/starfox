@@ -13,6 +13,10 @@ file = "config/badoptimizations.txt"
 hash = "23b96a18c6da194512a4291f186776c8bc4eb62a6f230bf723dd5d188ea7a555"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "dca9ad2578d3ce6366769f14038b4edca556e2977515836cee788c0498cc9f3c"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
@@ -44,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "fa3b6c0f8500a3afa447e655d2227e613c128b4f0d04e32bcfb7d9795f42cf8a"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
 
 [[files]]
@@ -132,8 +141,8 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
-file = "mods/reflex-fabric-1.0.4+mc1.21.4.jar"
-hash = "d96df25a860b6c64605ec1bc0062d8aea33b1a24cd8a3b2b8308a06d561d6acf"
+file = "mods/reflex-neoforge-1.0.4+mc1.21.4.jar"
+hash = "161cd36b1c84481c93fb38680543ba2cba4304dc39a0f721878691fc3e932970"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"

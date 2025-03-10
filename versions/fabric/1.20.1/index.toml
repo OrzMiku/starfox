@@ -17,6 +17,10 @@ file = "config/clean-debug.json"
 hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "f84abeb744c0eabb04077b7b5efe9437019a094220633f127b3496019efdc603"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
@@ -58,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "54cb969b7cfdde6077ea24d46130186098483b7520dbe4219255f2efb9735931"
 metafile = true
 
 [[files]]
