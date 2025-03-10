@@ -175,6 +175,10 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
+file = "mods/reflex-fabric-1.0.4+mc1.20.1.jar"
+hash = "76495268351a0821b9597eed3a7ebf47414eabbbc731c24a3df706315c148273"
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "6b7e9ed619297a29eb6db95f860734144876aa68922de63a05409b65ad8bd163"
 metafile = true

@@ -179,6 +179,10 @@ file = "mods/reflex-1.0.3-mc1.21.1.jar"
 hash = "1fd95ab81b106057d18ac9e4e7a23b754ec73c69f36dd272f2bd5b2e08d39759"
 
 [[files]]
+file = "mods/reflex-fabric-1.0.4+mc1.21.1.jar"
+hash = "1d2322de2e1f52139ed8217133c707a3653a85147e5536e8179f114694d17722"
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
 metafile = true

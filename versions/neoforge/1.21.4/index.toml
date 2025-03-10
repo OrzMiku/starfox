@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/reflex-neoforge-1.0.4+mc1.21.4.jar"
-hash = "161cd36b1c84481c93fb38680543ba2cba4304dc39a0f721878691fc3e932970"
+hash = "db6198956b31a919d678ccce2dc5de3cff8d40ad535543c18f6dd5c94688f07a"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
