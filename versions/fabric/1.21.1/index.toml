@@ -150,6 +150,11 @@ hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
@@ -167,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "00f608a4eb5338ec23c0174eff2a5dc8a8c4795ed634820c1b32c26b62ebc3bb"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
