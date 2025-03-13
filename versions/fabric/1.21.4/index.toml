@@ -22,7 +22,7 @@ hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "f84abeb744c0eabb04077b7b5efe9437019a094220633f127b3496019efdc603"
+hash = "b8bcf197146f2a86adb59ec5fc8ac03eac7c6eb180f4ebb53db7196a61e77bd1"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
 metafile = true
 
 [[files]]
@@ -172,10 +172,6 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
-
-[[files]]
-file = "mods/reflex-1.0.3-mc1.21.4.jar"
-hash = "b369776ad61615145bd1dee692c228b50d39501454ecbcacf4e7fb164624592b"
 
 [[files]]
 file = "mods/reflex-fabric-1.0.4+mc1.21.4.jar"

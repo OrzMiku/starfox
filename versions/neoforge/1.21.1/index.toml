@@ -14,7 +14,7 @@ hash = "23b96a18c6da194512a4291f186776c8bc4eb62a6f230bf723dd5d188ea7a555"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "dca9ad2578d3ce6366769f14038b4edca556e2977515836cee788c0498cc9f3c"
+hash = "b4d8f678ed35cd1eec79b40be2fb742170f4f17df6e08a77ff72ab57750bfb63"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
