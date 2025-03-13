@@ -13,10 +13,6 @@ file = "config/badoptimizations.txt"
 hash = "23b96a18c6da194512a4291f186776c8bc4eb62a6f230bf723dd5d188ea7a555"
 
 [[files]]
-file = "config/c2me.toml"
-hash = "bdd4f6e59200fd0b2fb1a71958d76e2a5f7d318c13fc392ecaa69027d4228304"
-
-[[files]]
 file = "config/clean-debug.json"
 hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
@@ -51,6 +47,11 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "1d5db1bb916b7efc637eb38dd583ded0765aec883faa30f3cf2464b1e82e1d40"
 metafile = true
 
 [[files]]
