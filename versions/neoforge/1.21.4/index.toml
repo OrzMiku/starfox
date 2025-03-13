@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "22ebf1f1ef9694e93cad519038df4871a13075bfb8abb1f1d33983078e5a08b5"
+hash = "62a774df781c8982a7d2bf7e742a28010058ee6111b2d6233edf42d698c4339a"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "23fc0d460f8a61595b0e142a5f3413614649781f4d7b0e443b959933d7683c44"
+hash = "a2c91b6295d7973c77d2b82aa4bee11e75737d4178815842066e68c70019e2b5"
 metafile = true
 
 [[files]]
